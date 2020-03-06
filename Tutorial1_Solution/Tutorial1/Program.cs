@@ -28,6 +28,7 @@ namespace Tutorial1
 
             }
 
+            Console.WriteLine("Hello world!");
         }
     }
 }
